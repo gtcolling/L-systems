@@ -1,6 +1,6 @@
 # L-systems
 
-Poject to program the rules of L-Systems and draw their geographical representations with Python Turtle.
+Poject to program the rules of some famous L-Systems and draw their geographical representations with Python Turtle.
 
 D0I L-System, simple version of an L system.
 
