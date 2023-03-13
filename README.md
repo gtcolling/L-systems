@@ -49,6 +49,4 @@ Inspiration for this project:
 
 https://www1.biologie.uni-hamburg.de/b-online/e28_3/lsys.html#FGI
 
-https://www.youtube.com/watch?v=ob8teyuR8dA&ab_channel=CoderSpace
-
 - Griffin Collingridge
